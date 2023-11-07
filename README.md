@@ -19,6 +19,8 @@ To get a local copy of this microservice running follow these steps in a code ed
 folder in your code editor.
 1. Open a terminal in the root directory of your project.
 1. Run the following commands in the terminal to complete the installation.
+
+
     2. Clone the repository containing the application files.
     ```
     git clone https://github.com/alexmerino13/361_microservice.git
