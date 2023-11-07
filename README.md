@@ -13,7 +13,7 @@ In order to run this application locally you must have the following things inst
     * You can install a code editor like Visual Studio code by going to [code.visualstudio.com](https://code.visualstudio.com)
 
 ## Getting Started
-To get a local copy of this microservice running follow these steps in a code editor on your local machine.
+To get a copy of this microservice running locally, follow these steps in a code editor on your local machine.
 ### Installation
 1. Create a new folder for the microservice application and open the
 folder in your code editor.
