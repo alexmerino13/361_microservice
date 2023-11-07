@@ -17,30 +17,30 @@ To get a local copy of this microservice running follow these steps in a code ed
 ### Installation
 1. Create a new folder for the microservice application and open the
 folder in your code editor.
-1. Open a terminal in the root directory of your project.
-1. Run the following commands in the terminal to complete the installation.
+2. Open a terminal in the root directory of your project.
+3. Run the following commands in the terminal to complete the installation.
 
 
-    1. Clone the repository containing the application files.
-    ```
-    git clone https://github.com/alexmerino13/361_microservice.git
-    ```
-    1. Use the npm init command to create a package.json file for the application. Follow all prompts in the terminal window for creating the package.json.
-    ```
-    npm init
-    ```
-    1. Install NPM packages.
-    ```
-    npm install
-    ```
-    1. Install the express package.
-    ```
-    npm install express
-    ```
-    1. Install the XMLHttpRequest package.
-    ```
-    npm install xmlhttprequest
-    ```
+  1. Clone the repository containing the application files.
+  ```
+  git clone https://github.com/alexmerino13/361_microservice.git
+  ```
+  2. Use the npm init command to create a package.json file for the application. Follow all prompts in the terminal window for creating the package.json.
+  ```
+  npm init
+  ```
+  3. Install NPM packages.
+  ```
+  npm install
+  ```
+  4. Install the express package.
+  ```
+  npm install express
+  ```
+  5. Install the XMLHttpRequest package.
+  ```
+  npm install xmlhttprequest
+  ```
 
 ### Usage
 3. Open a terminal in the root directory of your project.
