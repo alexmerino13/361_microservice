@@ -21,23 +21,23 @@ folder in your code editor.
 1. Run the following commands in the terminal to complete the installation.
 
 
-    2. Clone the repository containing the application files.
+    1. Clone the repository containing the application files.
     ```
     git clone https://github.com/alexmerino13/361_microservice.git
     ```
-    2. Use the npm init command to create a package.json file for the application. Follow all prompts in the terminal window for creating the package.json.
+    1. Use the npm init command to create a package.json file for the application. Follow all prompts in the terminal window for creating the package.json.
     ```
     npm init
     ```
-    2. Install NPM packages.
+    1. Install NPM packages.
     ```
     npm install
     ```
-    2. Install the express package.
+    1. Install the express package.
     ```
     npm install express
     ```
-    2. Install the XMLHttpRequest package.
+    1. Install the XMLHttpRequest package.
     ```
     npm install xmlhttprequest
     ```
