@@ -21,7 +21,7 @@ folder in your code editor.
 1. Run the following commands in the terminal to complete the installation.
     2. Clone the repository containing the application files.
     ```
-    git clone
+    git clone https://github.com/alexmerino13/361_microservice.git
     ```
     2. Use the npm init command to create a package.json file for the application. Follow all prompts in the terminal window for creating the package.json.
     ```
