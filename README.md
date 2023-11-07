@@ -41,12 +41,12 @@ npm install xmlhttprequest
 
 ### Usage
 1. Open a terminal in the root directory of your project.
-2. Run the following command in the terminal to start running the application
+2. Run the following command in the terminal to start running the application.
 ```
 node app.js
 ```
-3. Test that the application is running correctly by accessing the cover_image endpoint in a web browser to retrieve the cover image for your favorite book like [The Great Gatsby](http://localhost:3923/cover_image?isbn=9780743273565)
-4. The cover_image endpoint will return a json object with the cover image information
+3. Test that the application is running correctly by accessing the cover_image endpoint in a web browser to retrieve the cover image for your favorite book like [The Great Gatsby].(http://localhost:3923/cover_image?isbn=9780743273565)
+4. The cover_image endpoint will return a json object with the cover image information.
 ```javascript 
 {"file":"covers_0013/covers_0013_02.zip","url":"https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146702/the-great-gatsby-9781982146702_hr.jpg"}
 ```
