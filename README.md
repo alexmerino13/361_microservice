@@ -50,3 +50,5 @@ node app.js
 ```javascript 
 {"file":"covers_0013/covers_0013_02.zip","url":"https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146702/the-great-gatsby-9781982146702_hr.jpg"}
 ```
+### UML Sequence Diagram
+![Book Microservice UML Diagram](./361_microservice_uml.png)
